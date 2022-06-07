@@ -1,3 +1,5 @@
+Vi into _putchar.c and paste this
+
 #include <unistd.h>
 
 /**
