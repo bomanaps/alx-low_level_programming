@@ -1,5 +1,3 @@
-Task 4
-
 #include "main.h"
 /**
 * _isalpha - Shows 1 if the input is c
