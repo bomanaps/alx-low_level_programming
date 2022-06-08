@@ -1,5 +1,3 @@
-Task 0
-
 #include "main.h"
 /**
  * main - Entry point
